@@ -1,4 +1,6 @@
 # Team-Project
 
-Welcome to the project!
-Feature A in progress.
+<ul>
+  <li>Welcome to the project!</li>
+  <li>Feature A in progress.</li>
+</ul>
